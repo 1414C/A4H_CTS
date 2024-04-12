@@ -5,4 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST2.
 
-write: |This is a test program.|.
+
+write: |This is a small test program.|.
